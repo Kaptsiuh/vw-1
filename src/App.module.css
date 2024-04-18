@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: rgb(9, 21, 44);
+  justify-content: center;
+}
+
+.buttons {
+  width: 340px;
+  border: aqua 3px solid;
+  border-radius: 10px;
+  margin-top: 20px;
+}
