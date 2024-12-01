@@ -13,4 +13,17 @@
   border: aqua 3px solid;
   border-radius: 10px;
   margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.border {
+  border: aqua 3px solid;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.error {
+  color: red;
 }
